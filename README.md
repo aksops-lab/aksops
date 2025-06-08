@@ -1,10 +1,10 @@
 # Hi, I'm Avvaru Kumar 👋
 
 🚀 Cloud & DevOps Engineer  
-☁️ AWS Certified Solutions Architect  
-🔧 Terraform, CI/CD, GitOps, Python, Shell
+☁️ AWS, Azure, GCP
+🔧 CI/CD, IAC, GitOps, Monitor, Support.
 
-📫 Email: kumar@aksops.com  
+📫 Email: avvarukumar@aksops.com  
 🌐 Website: [https://aksops.com](https://aksops.com)
 
 <!-- You can add projects or blog links below -->
